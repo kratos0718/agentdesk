@@ -140,3 +140,8 @@ data/knowledge/  policy documents used for retrieval
 evals/           test cases and the evaluation runner
 tests/           unit tests
 ```
+
+## Author
+
+Built by **Abhinav Tarigoppula**, AI engineer, open to AI engineer roles and internships.
+[abhinavbuilds.online](https://www.abhinavbuilds.online) · [LinkedIn](https://www.linkedin.com/in/abhinav0702/) · [GitHub](https://github.com/kratos0718) · abhinaaavvv07187@gmail.com
